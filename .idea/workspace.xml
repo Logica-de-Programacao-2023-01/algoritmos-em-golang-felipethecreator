@@ -46,7 +46,12 @@
     "last_opened_file_path": "C:/Users/feliperodrigues/GolandProjects/Algoritmos_selecao/algoritmos-em-golang-felipethecreator"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\feliperodrigues\GolandProjects\Algoritmos_selecao\algoritmos-em-golang-felipethecreator\Algoritmos_Seleção" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Go Build.go build selecao4.go">
     <configuration name="go build selecao1.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="algoritmos-em-golang-felipethecreator" />
       <working_directory value="$PROJECT_DIR$" />
@@ -55,8 +60,35 @@
       <filePath value="$PROJECT_DIR$/selecao1.go" />
       <method v="2" />
     </configuration>
+    <configuration name="go build selecao2.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="algoritmos-em-golang-felipethecreator" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/Algoritmos_Seleção/selecao2.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build selecao3.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="algoritmos-em-golang-felipethecreator" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/Algoritmos_Seleção/selecao3.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build selecao4.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="algoritmos-em-golang-felipethecreator" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/Algoritmos_Seleção/selecao4.go" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build selecao4.go" />
+        <item itemvalue="Go Build.go build selecao3.go" />
+        <item itemvalue="Go Build.go build selecao2.go" />
         <item itemvalue="Go Build.go build selecao1.go" />
       </list>
     </recent_temporary>
