@@ -1,4 +1,4 @@
-package main
+package main // Faça um algoritmo que imprima os números de 1 a 10 em ordem crescente.
 
 import "fmt"
 
